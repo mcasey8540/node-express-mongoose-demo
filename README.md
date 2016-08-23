@@ -47,7 +47,7 @@ IMAGER_S3_BUCKET=AWS_S3_BUCKET
 ```
 
 then
-
+ 
 ```sh
 $ npm start
 ```
